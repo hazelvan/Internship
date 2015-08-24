@@ -3,10 +3,12 @@
 <head> </head>
 
   <body>
- <footer class="footer">
- </footer>
-<div class="container">
-  <p class="text-muted"> Internship @ HP Portal 2015 </p>
-</div>
+
+<div id="footer">
+      <div class="container">
+        <p class="text-muted">Internship @ HP Portal 2015.</p>
+      </div>
+    </div>
 </body>
 </html>
+
